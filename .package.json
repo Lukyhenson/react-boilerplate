@@ -16,16 +16,5 @@
     "start": "(cd client && npm start) && (cd server && npm run dev)",
     "update": "(cd client && npm i) && (cd ../server && npm i)",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "contributors": [
-    {
-      "name": "Guilherme Jacob",
-      "email": null,
-      "url": "https://github.com/costaseem",
-      "contributions": 1,
-      "additions": 252,
-      "deletions": 0,
-      "hireable": true
-    }
-  ]
+  }
 }
