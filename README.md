@@ -6,7 +6,7 @@ There are two methods for getting started with this repo.
 
 #### Familiar with Git?
 ```
-> git clone git@github.com:costaseem/react-client-rendering-boilerplate.git projectname
+> git clone git@github.com:costaseem/react-boilerplate.git projectname
 > cd projectname
 > npm run update
 > npm start
